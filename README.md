@@ -29,6 +29,3 @@ Python · LangChain · LangGraph · MCP · PII 脱敏 · 限额 · 人工审批
 
 ---
 
-#### 联系
-
-邮箱：<你的邮箱>
